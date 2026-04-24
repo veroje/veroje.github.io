@@ -452,12 +452,14 @@ blockquote cite {
   .hero p {
     font-size: 1.1rem;
   }
+
   .hero-photo {
-    float: none;
-    margin: 1.5rem 0 0 0;
-    text-align: center;
-    margin-bottom: 1.5rem;
+  float: none;
+  margin: 1.5rem 0 0 0;
+  margin-bottom: 1.5rem;
+  text-align: center;
   }
+
   .hero-photo img {
     width: 200px;
     height: auto;
