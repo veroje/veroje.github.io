@@ -147,8 +147,7 @@ nav a:focus-visible {
 
 .hero-photo img {
   width: 300px;
-  height: 300px;
-  object-fit: cover;
+  height: auto;
   display: block;
 }
 
@@ -460,7 +459,7 @@ blockquote cite {
   }
   .hero-photo img {
     width: 200px;
-    height: 200px;
+    height: auto;
     margin: 0 auto;
   }
 }
