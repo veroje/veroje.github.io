@@ -454,11 +454,13 @@ blockquote cite {
     font-size: 1.1rem;
   }
   .hero-photo {
-    float: right;
-    margin: 0 0 1rem 1.5rem;
+    float: none;
+    margin: 1.5rem 0 0 0;
+    text-align: center;
   }
   .hero-photo img {
     width: 200px;
     height: 200px;
+    margin: 0 auto;
   }
 }
