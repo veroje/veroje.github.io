@@ -1,0 +1,15 @@
+{
+  "name": "byvero.co",
+  "version": "1.0.0",
+  "description": "Personal website and portfolio — built with Eleventy, hosted on GitHub Pages",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.5"
+  }
+}
